@@ -1,0 +1,114 @@
+/* part 14*/
+a{
+  text-decoration:none;
+}
+.outer_div_last {
+  margin-top: 50px;
+
+    padding-top: 50px;
+    color: #2b2a27;
+    background-color: #f5f5f5;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+  .basic_div3 {
+    color: #2b2a27;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+  }
+  .h4_last {
+    font-weight: bold;
+  }
+  .img_last1 {
+    width: 150px;
+    height: 80px;
+  }
+  .img_last2 {
+    width: 155px;
+    height: 50px;
+  }
+  /*footer */
+  .div_hr_last {
+    background-color: #f5f5f5;
+    border: 1px solid #f5f5f5;
+  }
+  .hr_last {
+    margin-top: 60px;
+    border: 0; 
+    width: 1150px;
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+  }
+  .div_lasta {
+    padding-bottom: 0px;
+
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 20px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+    height: 110px;
+    background-color: #f5f5f5;
+  }
+  .div_lastb {
+    padding-left: 30px;
+  }
+  .div_lastc {
+    display: flex;
+    list-style-type: none;
+    justify-content: left;
+    flex-direction: row;
+  }
+  
+  .basic_div {
+    height: 470px;
+    width: 1fr;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    display: flex;
+  
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+  }
+  
+  .basic_div3_last {
+    color: #2b2a27;
+    display: flex;
+  
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+  }
+  a {
+    font-size: 13px;
+    color: #333333;
+    padding-bottom: 10px;
+  }
+  
+  hr {
+    background-color: #bdbdbd;
+    height: 1px;
+    align-items: center;
+  }
+  
+  .img_last {
+    padding-right: 20px;
+  }
+  .copy_text{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  

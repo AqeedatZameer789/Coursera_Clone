@@ -1,0 +1,126 @@
+.outer_div{
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+}
+h3{
+    padding-left: 30px;
+}
+.para1{
+    
+    background-color: #F0F0F0;
+    text-align: center;
+    font-size: 12px;
+    width: 105px;
+    padding:5px;
+    
+    margin-bottom: 20px;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.heading{
+    width: 170px;
+    color: #525252;
+}
+.mh4{
+    color: #525252;
+}
+.hr_2{
+    width: 1300px;
+    
+    border: 0; 
+    height: 1px; 
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  }
+  .hr_3{
+    width: 1300px;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    
+    border: 0; 
+    height: 1px; 
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  }
+h4{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.innerdiv1{
+    width: 270px;
+    text-align: center;
+
+margin-right: 30px;
+padding-bottom: 30px;
+flex-wrap: wrap;
+flex-shrink: inherit;
+}
+
+.h3_size{
+font-size: 16px;
+}
+
+.text{
+ padding-top: 4px;
+    padding-left: 50px;
+    font-size: 15px;
+    color: #54535A;
+}
+.middle_div{
+    display: flex;
+    flex-direction: row;
+   
+    flex-shrink: inherit;
+
+   
+}
+.innered_div{
+    width: 120px;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+}
+.upr_search_div{
+    padding-left: 150px;
+}
+.outer_searches_div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+}
+.inner_search_div1{
+    display: flex;
+    flex-direction: column;
+ 
+    font-size: 16px;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+    padding-right: 100px;
+}
+.a_search{
+    font-size: 16px;
+    color: #4276E5;
+}
+.WD{
+    font-size: 16px;
+    color: #2A73CC;
+    font-weight: bold;
+}
+.h4_heading{
+    padding-top: 20px;
+    color: #000000;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*Drop Down Button*/

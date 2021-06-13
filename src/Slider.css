@@ -1,0 +1,37 @@
+.simple-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .slides-container {
+    position: relative;
+    overflow: hidden;
+  
+    height: 623px;
+    width: 780px;
+  
+    left: 20%;
+    border: 2px blue solid;
+  }
+  
+  .slide {
+    position: absolute;
+    width: 100%;
+  
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    text-align: center;
+  
+    border: 2px solid red;
+  }
+  
+  .slide.animate {
+    transition: left 2s;
+  }
+  
+  .imgClass {
+    object-fit: contain;
+  }
+  
